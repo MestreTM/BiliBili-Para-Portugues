@@ -17,6 +17,8 @@ BiliBili Para Português é uma extensão de navegador que traduz automaticament
 
 <img src="https://marketing.create-cdn.net/assets/browserlogos2021.png" alt="Browser Logos" width="250"/>
 
+Veja o vídeo: https://www.youtube.com/watch?v=YVyOGZnRBgo
+
 1. Baixe ou clone este repositório no seu computador.
 2. Acesse as configurações de extensões do seu navegador:
    - **Chrome:** `chrome://extensions/`
