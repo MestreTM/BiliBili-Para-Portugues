@@ -17,15 +17,12 @@ BiliBili Para Português é uma extensão de navegador que traduz automaticament
 
 <img src="https://marketing.create-cdn.net/assets/browserlogos2021.png" alt="Browser Logos" width="250"/>
 
-1. Baixe ou clone este repositório no seu computador:
-   ```bash
-   git clone https://github.com/seu-usuario/bilibili-para-portugues.git
-   ```
+1. Baixe ou clone este repositório no seu computador.
 2. Acesse as configurações de extensões do seu navegador:
    - **Chrome:** `chrome://extensions/`
    - **Edge:** `edge://extensions/`
 3. Ative o **Modo de Desenvolvedor**.
-4. Clique em **Carregar sem compactação** e selecione a pasta do repositório baixado.
+4. Clique em **Carregar sem compactação** (ou arraste o zip para a página) e selecione a pasta do repositório baixado.
 5. A extensão será adicionada ao navegador.
 
 ## Arquivos Principais
